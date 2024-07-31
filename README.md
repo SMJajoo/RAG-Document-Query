@@ -24,3 +24,6 @@ Text splitters
 Vector stores
 FAISS (Facebook AI Similarity Search)
 Embedding models
+
+# Task
+You will begin by setting up an environment to handle PDF document parsing, followed by text extraction and text splitting. From there, you will generate embeddings and use a vector store to create a document indexing system. The key part of the project will involve implementing a question-answering system using a combination of Langchain's chains and OpenAI's ChatGPT model to respond to queries about the document content.
