@@ -1,5 +1,7 @@
 # RAG-Document-Query
-Retrieval-Augmented Generation (RAG) Document Query using Langchain &amp; OpenAI API
+Retrieval-Augmented Generation (RAG) Document Query using Langchain &amp; OpenAI API 
+
+Also, with Llama 3.1 8b
 
 
 You are a developer at a large corporate firm with an extensive archive of PDF documents, from technical specifications to project reports, stored over many years. The current method of retrieving specific information from these documents is inefficient and time-consuming, requiring manual search through countless files. As an initiative to enhance productivity and document management, your team has been tasked with developing an AI-powered document querying system utilizing a Retrieval-Augmented Generation (RAG) application. The goal is to implement a question-answering system capable of interpreting and responding to complex queries about document contents using OpenAI’s GPT model via Langchain’s tools. The deliverable will be a prototype ready for initial review and testing, with adjustments and enhancements planned based on initial feedback.
