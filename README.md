@@ -37,16 +37,16 @@ You will begin by setting up an environment to handle PDF document parsing, foll
 # Summary
 Here’s a brief summary of the steps involved in building a RAG pipeline:
 
-  Set Up Your Environment: Install the necessary libraries.
+ - Set Up Your Environment: Install the necessary libraries.
   
-  Prepare Your Documents: Gather and format the documents for processing.
+ - Prepare Your Documents: Gather and format the documents for processing.
   
-  Document Loading: Load and split documents into manageable chunks.
+ - Document Loading: Load and split documents into manageable chunks.
   
-  Set Up the Retrieval Mechanism: Create embeddings and index them using a vector store (like FAISS).
+ - Set Up the Retrieval Mechanism: Create embeddings and index them using a vector store (like FAISS).
   
-  Integrate the Language Model: Load a generative language model (like LLaMA).
+ - Integrate the Language Model: Load a generative language model (like LLaMA).
   
-  Construct the RAG Pipeline: Combine retrieval and generation into a coherent workflow.
+ - Construct the RAG Pipeline: Combine retrieval and generation into a coherent workflow.
   
-  Test the Pipeline: Validate the functionality with sample queries.
+ - Test the Pipeline: Validate the functionality with sample queries.
